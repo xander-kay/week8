@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Week 8.sln"
+    "dotnet.defaultSolution": "Week 8 Game project.sln"
 }

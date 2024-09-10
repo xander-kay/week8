@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: ad4981a1ab54c6f4e9536290647abfec
+  productGUID: fc4dfb49430dd2f448c77c6458a43321
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Week 8
+  productName: Week 8 Game project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Week 8
+  metroPackageName: Week 8 Game project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Week 8
+  metroApplicationDescription: Week 8 Game project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: f5b05ea3-1430-4c13-b472-1105a6c28f0a
+  cloudProjectId: 94c0860e-1ad5-4525-ad11-2b36774384de
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Week 8
+  projectName: Week 8 Game project
   organizationId: errar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
