@@ -18,12 +18,12 @@ public class CoinBehaviour : MonoBehaviour
         
     }
     void OnPickup(){
-        score.currentScore += value;
+        //scoreBehaviour.currentScore += value;
     }
     void OnCollisionEnter(Collision collision){
-        if(collision.tag == "Player"){
-            OnPickup();
-        }
+       // if(GameObject.Collision.tag == "Player"){
+        //    OnPickup();
+        //}
     }
 
 }
